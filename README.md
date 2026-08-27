@@ -24,3 +24,17 @@ Please also cite the original 2D method from which this repository was adapted f
 Blake E. Dewey. (2022). Laplacian-based Phase Unwrapping in Python. Zenodo. [https://doi.org/10.5281/zenodo.7198990](https://doi.org/10.5281/zenodo.7198991)
 ```
 The original github repository is located at: https://github.com/blakedewey/phase_unwrap
+
+## Installation and Usage 
+
+Install with pip:
+```
+pip install 3D_laplacian_phase_unwrap
+```
+
+Usage:
+```
+unwrap-phase-3D /path/to/phase_image.nii.gz
+```
+An optional tag `--output path/to/output` will save the unwrapped image to that path. If not provided, the unwrapped image will be saved to the same directory as the input image with '_unwrapped_3D' appended to the filename (before the .nii.gz).
+
