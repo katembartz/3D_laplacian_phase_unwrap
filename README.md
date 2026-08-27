@@ -27,9 +27,17 @@ The original github repository is located at: https://github.com/blakedewey/phas
 
 ## Installation and Usage 
 
-Install with pip:
+We recommend starting from a fresh python installation.
 ```
-pip install 3D_laplacian_phase_unwrap
+conda create -n phase_unwrap python=3.10
+conda activate phase_unwrap
+```
+
+Clone and install this repository:
+```
+git clone https://github.com/katembartz/3D_laplacian_phase_unwrap.git
+cd 3D_laplacian_phase_unwrap
+pip install .
 ```
 
 Usage:
