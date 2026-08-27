@@ -29,8 +29,8 @@ The original github repository is located at: https://github.com/blakedewey/phas
 
 We recommend starting from a fresh python installation.
 ```
-conda create -n phase_unwrap python=3.10
-conda activate phase_unwrap
+conda create -n phase_unwrap_3D python=3.10
+conda activate phase_unwrap_3D
 ```
 
 Clone and install this repository:
