@@ -1,6 +1,6 @@
 # 3D MRI Phase Unwrapping
 
-3-dimensional phase processing pipeline (unwrapping and background removal) for MRI phase images.
+3-dimensional phase processing pipeline (unwrapping and background removal) for MRI phase images in Python.
 
 If you use this code in your work, please cite the following:
 
