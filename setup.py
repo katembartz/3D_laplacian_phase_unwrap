@@ -48,7 +48,7 @@ setup(
     keywords="3D mri phase unwrapping",
     entry_points={
         "console_scripts": [
-            "unwrap-phase-3D=phase_unwrap.cli:main",
+            "unwrap-phase-3D=3D_laplacian_phase_unwrap.cli:main",
         ]
     },
     python_requires=">=3.8",
