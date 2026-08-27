@@ -1,0 +1,2 @@
+[console_scripts]
+unwrap-phase = phase_unwrap.cli:main
