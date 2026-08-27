@@ -4,7 +4,10 @@
 
 If you use this code in your work, please cite the following:
 
-**Publication:** Bartz, KM, _et al._ (in press), "A Three-Dimensional Phase Unwrapping Method Applied to Paramagnetic Rim Lesion Visualization," in [Proceedings of ISMRM Workshop on White Matter: MR Imaging and Beyond, Marseille, France, October 14 -- 16, 2026], 2026.
+**Publication:** 
+```
+Bartz, KM, et al., "A Three-Dimensional Phase Unwrapping Method Applied to Paramagnetic Rim Lesion Visualization," in [Proceedings of ISMRM Workshop on White Matter: MR Imaging and Beyond, Marseille, France, October 14 -- 16, 2026], 2026.
+```
 
 **Citation:**
 ```
