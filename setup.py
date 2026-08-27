@@ -1,7 +1,7 @@
 from pathlib import Path
 from setuptools import setup, find_packages
 
-__package_name__ = "phase_unwrap"
+__package_name__ = "3D_laplacian_phase_unwrap"
 
 
 def get_version_and_cmdclass(pkg_path):
